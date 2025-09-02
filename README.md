@@ -24,9 +24,6 @@ This project provides an interactive HR Analytics Dashboard built using Power BI
 2. Load the data from `HR_Analytics.csv` if prompted.
 3. Explore the dashboard and interact with the visuals.
 
-## Screenshot
-![Dashboard](Dashboard.png)
-
 ## License
 This project is for educational and internal use. Please contact the author for other uses.
 # HR-analytics-dashboard
